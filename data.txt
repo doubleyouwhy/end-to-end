@@ -1,0 +1,1 @@
+{"newname":["more data"],"Wesley":["Hi, my name is","and another one","let's goood"],"Sammy":[],"Jimmy":["helllo"],"null":[]}
